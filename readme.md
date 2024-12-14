@@ -1,4 +1,6 @@
-# Visual Odometry with SuperGlue (Python 3 Optimized)
+# Visual Odometry with SuperGlue on Kitti Datasets
+
+⚠️ **You Need Nvidia GPU**:  
 
 ⚠️ **Dataset Requirement**:  
 To run this project, you need to download the following datasets:
